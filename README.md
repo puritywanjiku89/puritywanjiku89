@@ -1,14 +1,20 @@
+# Hi, I'm Purity Wanjiku
 
-## Hi there 👋
+## About Me
+ I'm currently learning Software Development with IYF S12 Week 00
+ I'm interested in Web Development, HTML/CSS, and building accessible websites
+I'm looking to collaborate on beginner-friendly open source projects
 
-I'm Purity, and I'm currently starting my journey into programming. 💻✨
+## Skills I'm Building
+Git and GitHub
+HTML / CSS / Semantic HTML
+JavaScript
+GitHub Pages
 
-🌱 I'm currently learning HTML, CSS & JavaScript  
-🚀 I'm interested in web development  
-📚 I'm learning step by step and building my skills  
-🎯 My goal is to create beautiful and useful websites  
-💡 I'm always open to learning something new  
+## Current Projects
+[My Portfolio](https://puritywanjiku89.github.io/) - My personal website hosted on GitHub Pages
+[IYF S12 Week 00](https://github.com/puritywanjiku89/iyf-s12-week-00-puritywanjiku) - My classwork on semantic HTML and forms
 
-### ✨ My Journey
-I'm a beginner in programming, but I'm excited to learn, practice, make mistakes, and keep improving. 🚀
-
+## How to Reach Me
+ Email: puritywanjiku89@gmail.com
+ GitHub: [@puritywanjiku89](https://github.com/puritywanjiku89)

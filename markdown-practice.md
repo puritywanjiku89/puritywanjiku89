@@ -1,6 +1,6 @@
 # My Markdown Practice
 
-My name is Purity Wanjiku, IYF S12 student from Ruiru.
+My name is Purity Wanjiku, IYF S12 student.
 
 ## About Me
 I am learning how to code. I like **web development** and I want to be good at it. My goal is to build *accessible and simple* websites.

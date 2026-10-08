@@ -18,3 +18,6 @@ GitHub Pages
 ## How to Reach Me
  Email: puritywanjiku89@gmail.com
  GitHub: [@puritywanjiku89](https://github.com/puritywanjiku89)
+
+ ## Practice Files
+[My Markdown Practice](https://github.com/puritywanjiku89/puritywanjiku89/blob/main/markdown-practice.md)
